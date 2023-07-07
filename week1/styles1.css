@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(190, 190, 25);
+    color: rgb(0, 0, 0);
+}
+#my-button{
+    background-color: rgb(14, 255, 10);
+    border-radius: 56px;
+    padding: 3px 3px;
+    cursor: default;
+    border: rgb(153, 51, 51);
+
+}
